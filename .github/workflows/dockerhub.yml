@@ -26,4 +26,4 @@ jobs:
       with:
        context: 
        push: true
-       tags: Louis-Jea/juice-shop-hmp:latest
+       tags: louisjea896/juice-shop-hmp:latest
